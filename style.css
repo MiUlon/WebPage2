@@ -146,13 +146,3 @@ footer {
     background: -ms-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* IE10+ */
     background: linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C */
 }
-
-.blue-dark{
-    background: #3392f2; /* Old browsers */
-    background: -moz-linear-gradient(top, #3392f2 0%, #3899f9 44%, #298aeb 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#298aeb), color-stop(44%,#3899f9), color-stop(100%,#3392f2)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, #3392f2 0%,#3899f9 44%,#298aeb 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, #3392f2 0%,#3899f9 44%,#298aeb 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, #3392f2 0%,#3899f9 44%,#298aeb 100%); /* IE10+ */
-    background: linear-gradient(top, #3392f2 0%,#3899f9 44%,#298aeb 100%); /* W3C */
-}
